@@ -1,3 +1,3 @@
-# YOUR_REPO_NAME Ex) dc.template
+# dc.vdh.drug.overdose
 
-Allows user to easily get YOUR_DATA data from the SDAD Data Commons.  Data can be provided directly or in a file.
+Allows user to easily get drug overdose ED visit data from the SDAD Data Commons.  Data can be provided directly or in a file.
