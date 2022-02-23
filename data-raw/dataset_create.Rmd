@@ -5,23 +5,20 @@ date: "11/18/2021"
 output: html_document
 dataset:
   citation:
-      title: "Social Data Commons: your title here"
+      title: "Social Data Commons: Health, Behavior, Diet: Drug Overdose ED Visits"
       subtitle: ""
-      dsDescriptionValue: "Virginia Standards of Learning Test Scores collected by the Virginia Department of Education (VDOE)"
+      dsDescriptionValue: "Drug Overdose ED Visits data collected by the Virginia Department of Health (VDOE)"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
-      productionDate: "2021-11-17"
+      productionDate: "2022-02-16"
       timePeriodCoveredStart: "2015-01-01"
-      timePeriodCoveredEnd: "2021-01-01"
+      timePeriodCoveredEnd: "2021-09-30"
       dataSources:
-        - "ACS"
-        - "County Health Rankings"
+        - "VDH"
       author:
+        - authorName: "Alerte, Zachary"
+          authorAffiliation: "Univeristy of Virginia"
         - authorName: "Schroeder, Aaron"
           authorAffiliation: "Univeristy of Virginia"
-        - authorName: "Charankevich, Hanna"
-          authorAffiliation: "Univeristy of Virginia"
-        - authorName: "Niagra, Bob"
-          authorAffiliation: "Univeristy of Waterloo"
       datasetContact:
         - datasetContactEmail: "ads7fg@virginia.edu"
           datasetContactName: "Schroeder, Aaron"
