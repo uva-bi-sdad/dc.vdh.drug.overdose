@@ -1,0 +1,13 @@
+{
+  "name": "dc.vdh.drug.overdose",
+  "data": [
+    {
+      "name": "drug_overdose_ed_visits",
+      "variables": "avg_monthly_rate",
+      "file": "va_hdct_vdh_2015_2021_drug_overdose_ed_visits.csv.xz",
+      "size": 11300,
+      "md5": "836e3952e4ac1192019eb43bc103c255"
+    }
+  ],
+  "distributions": []
+}

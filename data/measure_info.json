@@ -1,5 +1,5 @@
 {
-  "drug_overdose_ed_visits:avg_overdose_per_100k": {
+  "drug_overdose_ed_visits:avg_monthly_rate": {
     "category": "Behavioral Health, Substance Use Disorder and Recovery",
     "measure_table": "drug_overdose_ed_visits",
     "full_name": "drug_overdose_ed_visits:avg_overdose_per_100",
