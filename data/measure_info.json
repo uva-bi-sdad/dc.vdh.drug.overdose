@@ -5,11 +5,12 @@
     "full_name": "drug_overdose_ed_visits:avg_overdose_per_100",
     "measure": "avg_overdose_per_100k",
     "type": "rate",
-    "short_name": "ED visits for drug overdose",
-    "long_name": "Emergency department visits for drug overdose rate per 100,000 residents",
-    "short_description": "Average emergency department visits for drug overdose per 100,000 residents.",
-    "long_description": "Average emergency department visits for drug overdose per 100,000 residents.",
+    "short_name": "Monthly average ED visits for drug overdose",
+    "long_name": "Monthly average emergency department visits for drug overdose rate per 100,000 residents",
+    "short_description": "Monthly average emergency department visits for drug overdose per 100,000 residents.",
+    "long_description": "Monthly average emergency department visits for drug overdose per 100,000 residents.",
     "statement": "The average emergency department visits for drug overdose rate in {features.name} is {value}.",
+    "equity_category": "Status",
     "sources": [
       {
         "name": "Virginia Department of Health",
